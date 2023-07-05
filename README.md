@@ -1,4 +1,4 @@
-### This is a repository to house the code for my final project of this course as well as the code for some homework assignments. 
+# This is a repository to house the code for my final project of this course as well as the code for some homework assignments. 
 
 ## Final Project
 
