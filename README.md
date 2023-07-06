@@ -1,4 +1,4 @@
-## This is a repository to house the code for my final project of this course as well as the code for a few assignments done in the course. 
+## This is a repository to house the code for my final project of the Intro to Deep Learning course I took at Rutgers as well as the code for a few assignments done in the course. 
 
 ## Final Project
 
