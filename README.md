@@ -3,14 +3,14 @@
 ## Final Project
 
 My final project involved evaluating different types of optimizers on the LeNET-5 Neural Network using MNIST data. The optimizers I evaluated were stochastic gradient descent, mini-batch
-gradient descent, RMSProp, and AdaGrad.
+gradient descent, RMSProp, and AdaGrad. I have also included my final report for the project as well labeled "final_report.pdf.
 
-## Homework 1 
+## Neural Network Recognizing Handwritten Digits
 
-Buliding a fully-connected layer based NN to recognize handwritten digits - Details of assignment in pdf in "Homework 2" folder.
+Built a fully-connected layer based NN to recognize handwritten digits.
 
-## Homework 2
+## LeNet For Colorful Image Classification
 
-Building LeNet for colorful image classification for the CIFAR-10 colorful image dataset -  Details of assignment in pdf in "Homework 3" folder.
+Built the LeNet network for colorful image classification for the CIFAR-10 colorful image dataset.
 
 
